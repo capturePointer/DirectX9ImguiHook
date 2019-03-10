@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  Generating code
+  854 of 856 functions (99.8%) were compiled, the rest were copied from previous compilation.
+    26 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+detours.lib(detours.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(detours.obj)' or at 'C:\Users\Stale\Desktop\DX9HOOK\DirectX9ImguiHook\Release\detours.pdb'; linking object as if no debug info
+detours.lib(modules.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(modules.obj)' or at 'C:\Users\Stale\Desktop\DX9HOOK\DirectX9ImguiHook\Release\detours.pdb'; linking object as if no debug info
+detours.lib(disasm.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(disasm.obj)' or at 'C:\Users\Stale\Desktop\DX9HOOK\DirectX9ImguiHook\Release\detours.pdb'; linking object as if no debug info
+  DX9HOOK.vcxproj -> C:\Users\Stale\Desktop\DX9HOOK\DirectX9ImguiHook\Release\dx9hook.dll
